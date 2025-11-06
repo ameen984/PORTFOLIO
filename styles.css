@@ -45,6 +45,15 @@ nav {
   font-weight: 500;
   
 }
+.ongoing{
+  font-size: 15px !important;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+
+}
 
 .page1 {
   background: #000000; /* fallback for old browsers */
